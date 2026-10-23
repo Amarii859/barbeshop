@@ -1,3 +1,3 @@
 // Vendos vlerat nga Supabase: Project Settings → API
 const SUPABASE_URL='https://rsgbzgqrylcrlfrmgitx.supabase.co/rest/v1/';
-const SUPABASE_KEY='sb_publishable_e1i1eu4hzYqc-ts4CnPMMA_1u1XTwUI';
+const SUPABASE_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZ2J6Z3FyeWxjcmxmcm1naXR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI3ODA3MDIsImV4cCI6MjEwODM1NjcwMn0.ItWSivNhMOdtYXaJN5FnTy47IuqDGXNEusJRHpK3wJM';
